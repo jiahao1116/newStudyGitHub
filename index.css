@@ -5,8 +5,10 @@ body {
 #beauty {
     width: auto;
     height: 800px;
+    border-radius: 80px;
 }
 
 .pic {
     width: 1280px;
+    border-radius: 100px;
 }
